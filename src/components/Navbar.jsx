@@ -20,7 +20,7 @@ const Navbar = () => {
                                 <a class="nav-link" href="/search">Search Product</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/">View all Products</a>
+                                <a class="nav-link active" aria-current="page" href="/ViewAll">View all Products</a>
                             </li>
                         </ul>
                     </div>
