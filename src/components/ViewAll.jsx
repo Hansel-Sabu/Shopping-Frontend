@@ -41,7 +41,7 @@ const ViewAll = () => {
                                                     <p class="card-text">{value.Category}</p>
                                                     <p class="card-text">{value.Des}</p>
                                                     <p class="card-text">Rating:{value.Rating}</p>
-                                                    <p class="card-text">In stock{value.Instock}</p>
+                                                    <p class="card-text">In stock:{value.Instock}</p>
                                                     <h5 class="card-title">{value.Price}$</h5>
                                                     <button type="button" class="btn btn-success">Buy now</button>
                                                 </div>
